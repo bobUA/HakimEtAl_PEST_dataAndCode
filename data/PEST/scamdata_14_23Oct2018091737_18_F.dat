@@ -1,0 +1,161 @@
+userId,reactTime,category,type,hasAtt,realId,emailCode
+3,10.4399693856831,General,Type,0,Safe,027S
+2,8.00005126633914,Security,Social Proof,0,Safe,002253cS
+3,15.2644961473998,Job Offer,Type,0,Scam,027
+1,11.6345639910433,Finance and Banking,Type,0,Safe,022S
+4,20.9911147097009,Ideological,Perceptual Contrast,1,Scam,027314
+2,9.99865384417353,Ideological,Authority,0,Safe,023334S
+2,6.60578800726216,Social,Social Proof,0,Scam,004455
+1,9.77979469636921,General,Type,0,Safe,015S
+3,25.4602219205699,Finance and Banking,Type,0,Scam,015
+2,6.57811408519046,General,Type,0,Safe,020S
+4,7.03608756163158,Job Offer,Type,0,Scam,028
+2,6.23441568238195,Ideological,Liking,0,Scam,017864e
+4,9.09585456753848,Finance and Banking,Type,0,Scam,009
+1,6.50347056851024,Ideological,Commitment/Consistency,0,Scam,003144c 
+2,11.1751527407323,Ideological,Reciprocation,1,Safe,010224bS
+4,21.3546730462112,Security,Social Proof,1,Scam,024853
+2,6.10220564500196,Security,Liking,0,Safe,001963cS
+2,23.1171165539417,Security,Liking,0,Scam,002363c
+4,3.32462400244549,Social,Authority,1,Scam,002135d
+3,13.6175594293163,Ideological,Scarcity,1,Scam,008674e
+4,6.4687870441121,Finance and Banking,Type,1,Scam,010
+4,8.68225958384573,Social,Social Proof,1,Scam,028455
+2,16.0865604691789,Finance and Banking,Type,0,Safe,028S
+3,12.2040845081792,Finance and Banking,Type,0,Safe,001S
+2,14.6428492993582,Social,Liking,0,Safe,001165bS 
+2,6.41720314451959,General,Type,0,Safe,010S
+4,23.2328105485649,Job Offer,Type,0,Scam,030
+3,10.6281745464657,Security,Scarcity,1,Safe,011773cS
+1,2.88242767140036,General,Type,0,Safe,021S
+3,11.3308083814918,Job Offer,Type,0,Scam,032
+3,21.0736476260354,Finance and Banking,Type,0,Scam,017
+2,16.1343777782749,Finance and Banking,Type,0,Scam,006
+4,9.11909775144886,General,Type,0,Scam,026
+1,4.17048849252751,Social,Reciprocation,0,Safe,026325S
+2,12.5708097838797,General,Type,0,Safe,031S
+3,12.0971392037463,Security,Liking,1,Safe,002363cS
+3,18.3154701424646,Finance and Banking,Type,1,Scam,020
+2,13.8579488024116,Security,Liking,1,Scam,001963c
+4,9.78777108335635,Finance and Banking,Type,0,Scam,008
+2,9.29309451801237,Job Offer,Type,0,Safe,036S
+2,19.4717088969192,Security,Commitment/Consistency,0,Scam,021143
+2,7.13469794514822,Ideological,Scarcity,1,Scam,010174a 
+3,16.6370042706258,Finance and Banking,Type,0,Scam,012
+2,23.4594013277674,Ideological,Perceptual Contrast,0,Scam,027414
+2,6.70055341225816,Ideological,Scarcity,0,Safe,010174aS 
+2,20.0483286498929,Social,Perceptual Contrast,1,Safe,027215S
+4,11.9291528412723,Finance and Banking,Type,0,Scam,023
+1,7.61267523176502,Finance and Banking,Type,0,Scam,002
+1,6.1306670847116,General,Type,0,Safe,013S
+2,9.91016112861689,Finance and Banking,Type,0,Scam,022
+2,4.94564275472658,Social,Social Proof,0,Safe,004455S
+3,10.5647930955165,Social,Commitment/Consistency,1,Safe,029045S
+3,13.6335697540198,Finance and Banking,Type,0,Scam,007
+2,47.4607587291393,University Phishing Emails,Type,0,Scam,040
+4,36.3374958325294,Phishing Emails,Type,0,Scam,037
+2,6.90848752937745,Social,Authority,1,Safe,009735aS
+4,6.13541567442007,Finance and Banking,Type,0,Scam,003
+1,3.96570444636745,Ideological,Reciprocation,0,Scam,010224b
+1,6.92043193412246,University Emails,Type,0,Safe,040S
+2,5.25482532387832,Lottery & Sweepstakes,Type,0,Safe,034S
+3,9.35674916917924,Social,Perceptual Contrast,0,Safe,027115S
+3,7.302799078112,Ideological,Reciprocation,1,Scam,019224c 
+2,14.4979741511634,General,Type,0,Safe,029S
+2,9.5434735584422,Ideological,Social Proof,1,Safe,021554S
+3,10.0363028804422,Finance and Banking,Type,0,Safe,012S
+2,13.0246134846238,Finance and Banking,Type,1,Scam,019
+2,4.56100103718927,Ideological,Scarcity,1,Safe,008674eS
+3,5.41778162767878,Ideological,Commitment/Consistency,1,Scam,004344e 
+4,13.7260013812338,Social,Perceptual Contrast,0,Scam,027115
+4,19.9963683558744,Phishing Emails,Type,0,Scam,038
+2,13.6115281878738,Ideological,Liking,1,Safe,017864eS
+3,10.7184556317516,Security,Scarcity,1,Scam,025573
+3,9.76287778362166,Social,Social Proof,1,Safe,028455S
+3,5.49033248401247,Finance and Banking,Type,0,Safe,006S
+2,5.39443028828828,Ideological,Commitment/Consistency,1,Safe,003144cS 
+3,8.76032868697075,General,Type,0,Scam,024
+2,11.9045830158284,Social,Commitment/Consistency,1,Safe,029145S
+3,7.72175354830688,Security,Scarcity,1,Scam,011773c
+2,5.70155558735132,Finance and Banking,Type,0,Safe,003S
+1,9.09082285512704,General,Type,1,Safe,026S
+4,15.1450107559795,Job Offer,Type,0,Scam,033
+3,13.4193004355184,General,Type,0,Safe,018S
+3,9.11007949925261,Social,Reciprocation,0,Scam,026325
+4,12.0564578438061,Security,Authority,1,Scam,007033b
+3,13.1351193216396,Finance and Banking,Type,0,Scam,021
+2,6.62130286719184,Ideological,Social Proof,0,Scam,008754e
+3,4.95987463218626,Finance and Banking,Type,0,Scam,004
+4,17.511548826762,Security,Authority,0,Scam,000433a
+2,8.35501008125721,Security,Perceptual Contrast,0,Safe,006713bS
+2,13.5072484044358,Social,Liking,0,Safe,001465aS
+3,14.0662050708197,Social,Liking,1,Scam,001465a 
+2,38.6171711278148,Finance and Banking,Type,0,Safe,016S
+2,7.5387679663836,Finance and Banking,Type,0,Safe,004S
+3,10.5681786610512,General,Type,0,Safe,017S
+1,4.3219439284876,General,Type,0,Safe,007S
+4,8.34481534844963,General,Type,0,Safe,025S
+3,7.89285293762805,Ideological,Perceptual Contrast,1,Safe,027414S
+1,2.80142546992283,General,Type,0,Safe,024S
+3,9.16814975335728,Ideological,Authority,1,Safe,023234S
+3,13.3275858761044,Lottery and Sweepstakes,Type,0,Scam,035
+2,13.4911266167182,Ideological,Authority,0,Scam,023234
+4,9.032137404487,General,Type,0,Scam,025
+3,16.3183890185319,Finance and Banking,Type,0,Scam,016
+2,5.22496745409444,General,Type,1,Safe,019S
+2,21.7336513171904,Security,Social Proof,0,Scam,002253c
+1,21.5222416703473,Security,Commitment/Consistency,0,Safe,021143S
+2,9.11501992447302,Finance and Banking,Type,1,Scam,001
+2,4.6218608438503,Job Offer,Type,0,Safe,038S
+4,6.95986206369707,Social,Commitment/Consistency,1,Scam,029145
+2,6.9602473884006,Security,Authority,0,Safe,000433aS
+3,16.9023352331715,Ideological,Commitment/Consistency,1,Safe,004344eS
+3,5.8786891947384,Social,Liking,0,Scam,001165b 
+1,3.41857840644661,Finance and Banking,Type,0,Safe,032S
+4,21.7425313154818,Finance and Banking,Type,0,Scam,011
+2,7.65414014045382,Security,Commitment/Consistency,0,Scam,006943b
+2,24.0872530614142,Job Offer,Type,0,Scam,029
+2,27.4292090689414,Ideological,Authority,0,Scam,023334
+3,8.93067727185553,Security,Reciprocation,1,Safe,006823bS
+2,20.5419497893308,Finance and Banking,Type,0,Safe,008S
+3,9.69851697940612,Security,Reciprocation,0,Safe,026823S
+4,6.97371754673077,Finance and Banking,Type,0,Scam,013
+2,30.6750700530247,General,Type,0,Safe,030S
+3,11.2796203906764,Finance and Banking,Type,0,Scam,018
+3,20.6885481494246,General,Type,0,Safe,014S
+3,9.07050780835561,University Phishing Emails,Type,0,Scam,039
+1,3.70451183826663,Social,Reciprocation,0,Safe,026425S
+1,6.23127189575462,Security,Authority,0,Safe,007033bS
+3,7.63491293310653,Security,Reciprocation,1,Scam,026823
+2,6.97144131956156,Job Offer,Type,0,Safe,037S
+2,7.69776915182592,Finance and Banking,Type,0,Safe,011S
+2,4.64265614084434,Ideological,Social Proof,0,Safe,008754eS
+3,17.5844959224924,General,Type,0,Safe,009S
+2,9.01324789377395,Security,Reciprocation,0,Scam,006823b
+3,6.77280593127944,Security,Perceptual Contrast,1,Safe,002913bS
+2,17.8468911406817,Ideological,Liking,1,Safe,019364cS
+3,39.57986144186,Security,Perceptual Contrast,0,Scam,002913b
+2,9.85309701849474,General,Type,0,Safe,039S
+3,4.98807544028386,Security,Scarcity,0,Safe,025573S
+2,10.7244514828199,Finance and Banking,Type,0,Safe,033S
+3,8.18068091012537,Social,Perceptual Contrast,0,Scam,027215
+1,10.8211491341935,University Emails,Type,0,Safe,035S
+3,7.95748958794866,Finance and Banking,Type,0,Safe,023S
+4,8.36660322867101,Social,Authority,1,Safe,002135dS
+3,16.4383811202133,Security,Social Proof,0,Safe,024853S
+2,6.04771973757306,Social,Reciprocation,1,Scam,026425
+2,7.99211060040398,Ideological,Reciprocation,0,Safe,019224cS
+2,25.2870718761114,Ideological,Perceptual Contrast,1,Safe,027314S
+3,5.74021043692483,Ideological,Liking,1,Scam,019364c 
+2,11.3935776126455,General,Type,1,Safe,002S
+4,3.80776397883892,Lottery and Sweepstakes,Type,0,Scam,034
+3,6.82894195459085,Security,Perceptual Contrast,1,Scam,006713b
+4,3.62125788506819,Lottery and Sweepstakes,Type,0,Scam,036
+3,10.054784906155,Social,Authority,1,Scam,009735a
+2,34.3964882199652,Social,Commitment/Consistency,0,Scam,029045
+1,6.63327009376371,General,Type,0,Safe,005S
+3,5.7833843351109,Ideological,Social Proof,1,Scam,021554
+3,5.19348030578112,Job Offer,Type,0,Scam,031
+3,11.6432068409631,Finance and Banking,Type,0,Scam,005
+4,13.551836593193,Security,Commitment/Consistency,0,Safe,006943bS
+1,10.1521245448384,Finance and Banking,Type,0,Scam,014

@@ -1,0 +1,46 @@
+model {
+
+    # inputs
+    # nS - number of subjects
+    # nEmails - number of emails
+    # T[s] - number of trials per subject
+    # rating[t,s] - rating for each email from each subject
+    # ind[t,s] - index of email used on each trial for each subject
+
+    # hyperpriors
+    mu_bias     ~ dnorm(0, 0.01)
+    sigma_bias  ~ dgamma(1, 0.1)
+    mu_f        ~ dnorm(0, 0.01)
+    sigma_f     ~ dgamma(1, 0.1)
+    k           ~ dexp(0.1)
+    lambda      ~ dexp(0.1)
+
+    mu_score    ~ dnorm(0, 0.01)
+    sigma_score ~ dgamma(1, 0.1)
+
+    # prior over subject parameters
+    for (s in 1:nS){ # loop over subjects
+        b_bias[s] ~ dnorm(mu_bias, sigma_bias)
+        b_f[s] ~ dnorm(mu_f, sigma_f)
+        sigma[s] ~ dgamma(k, lambda)
+    }
+
+    # prior over email parameters
+    for (i in 1:nEmails){
+        score[i] ~ dnorm(mu_score, sigma_score)
+    }
+
+    # behavior
+    for (s in 1:nS){ # loop over subjects
+        for (t in 1:T[s]){ # loop over trials
+            f[t,s] <- score[ind[t,s]] # ind is index of email used on trial t for this subject
+            mu[t,s] <- b_bias[s] + b_f[s] * f[t, s]
+            rating[t,s] ~ dnorm(mu[t,s], sigma[s])
+        }
+    }
+
+
+    
+
+
+}

@@ -1,0 +1,161 @@
+userId,reactTime,category,type,hasAtt,realId,emailCode
+1,7.0426332539646,University Phishing Emails,Type,0,Scam,133
+2,37.408749906579,Finance and Banking,Type,0,Scam,016
+3,23.5015730436426,University Phishing Emails,Type,0,Scam,061
+1,14.6478975259233,University Phishing Emails,Type,0,Scam,123
+3,37.1501522439066,Job Offer,Type,0,Scam,028
+1,16.2674498369452,Social,Social Proof,1,Safe,004455S
+1,15.0717077710433,Social,Scarcity,0,Safe,025175S
+1,8.55906620202586,Finance and Banking,Type,0,Safe,008S
+1,37.6758723016828,University Phishing Emails,Type,0,Scam,068
+2,12.9895886735758,University Phishing Emails,Type,0,Scam,050
+2,17.4164748872863,Ideological,Liking,1,Scam,019364c 
+1,13.77938029496,Ideological,Liking,1,Safe,019364cS
+4,6.59219570574351,University Phishing Emails,Type,0,Scam,105
+4,36.276139282505,General,Type,0,Safe,026S
+4,20.4540430463385,University Phishing Emails,Type,0,Scam,039
+1,10.1976137761958,Health,Social Proof,0,Safe,001856cS
+1,11.1388435945846,Finance and Banking,Type,0,Safe,003S
+2,54.9310377788497,Finance and Banking,Type,0,Scam,006
+1,12.1548310235376,Financial,Reciprocation,0,Scam,019821g
+2,16.4533359042834,University Phishing Emails,Type,1,Scam,069
+1,28.1869044444757,Legal,Social Proof,0,Scam,025152
+4,8.94659291836433,University Phishing Emails,Type,0,Scam,093
+1,8.56641512073111,University Phishing Emails,Type,1,Scam,071
+1,3.91522200894542,Finance and Banking,Type,0,Safe,011S
+2,18.9430793685606,Security,Social Proof,1,Scam,002253c
+1,24.9640472204192,Finance and Banking,Type,0,Safe,028S
+4,10.2938634760212,Lottery and Sweepstakes,Type,0,Scam,034
+2,12.2815648940159,Social,Social Proof,1,Safe,028455S
+1,11.6460228388896,Job Offer,Type,0,Safe,037S
+3,7.72766400373075,University Phishing Emails,Type,0,Scam,074
+2,18.5745069023687,Legal,Authority,1,Safe,012032bS 
+1,17.2783586103469,General,Type,1,Safe,021S
+1,20.8387739388272,General,Type,0,Safe,030S
+1,17.8955682240194,University Emails,Type,0,Safe,035S
+2,19.0271350033581,Security,Commitment/Consistency,0,Scam,006943b
+1,17.5195426531136,Finance and Banking,Type,0,Safe,022S
+3,17.9119518904481,General,Type,0,Safe,039S
+2,10.5263729568105,Security,Commitment/Consistency,1,Scam,021143
+4,18.649079293129,Finance and Banking,Type,0,Scam,135
+1,7.64483974862378,Ideological,Reciprocation,0,Safe,019224cS
+3,22.4150678797159,Legal,Commitment/Consistency,1,Safe,024142S
+3,23.3819459833903,Job Offer,Type,0,Scam,032
+1,12.961549071013,Ideological,Reciprocation,1,Safe,010224bS
+1,7.01674054493196,Ideological,Commitment/Consistency,0,Safe,003144cS 
+3,11.001667968696,Security,Authority,0,Scam,007033b
+2,13.4614736600779,Health,Reciprocation,1,Safe,015626aS
+1,8.1558566770982,Security,Social Proof,0,Safe,024853S
+3,12.5849397275597,Health,Reciprocation,1,Scam,004926a
+1,11.9369945736835,General,Type,0,Safe,020S
+3,29.3996182491537,Legal,Social Proof,0,Safe,025052S
+1,18.5901430755621,General,Type,0,Safe,005S
+2,26.6394458891591,University Phishing Emails,Type,0,Scam,102
+1,15.0740064786514,General,Type,1,Safe,029S
+3,7.20384277764242,Security,Reciprocation,0,Scam,006823b
+3,6.2736265801359,Social,Reciprocation,1,Scam,026325
+3,8.639800452278,Finance and Banking,Type,0,Scam,004
+4,20.8064488176024,University Phishing Emails,Type,0,Scam,122
+1,11.6769495521439,Legal,Perceptual Contrast,1,Safe,005912bS
+3,16.1391627676785,Financial,Perceptual Contrast,1,Scam,009411d 
+4,10.0638759584399,Financial,Perceptual Contrast,1,Scam,020111
+1,5.80964154063258,Legal,Authority,1,Scam,017432d 
+3,17.7157365224557,Finance and Banking,Type,0,Scam,007
+4,7.06810988020152,Phishing Emails,Type,0,Scam,038
+1,13.5655548418872,Finance and Banking,Type,0,Safe,023S
+2,34.4656133183744,Finance and Banking,Type,0,Scam,020
+4,8.95810067874845,Legal,Reciprocation,0,Scam,008322d
+1,11.0497463482898,Security,Scarcity,0,Safe,025573S
+4,12.13459511986,University Phishing Emails,Type,0,Scam,116
+1,9.73518821957987,University Emails,Type,0,Safe,040S
+2,13.4754402107792,Financial,Commitment/Consistency,0,Scam,004241c
+1,23.4584886477096,University Phishing Emails,Type,0,Scam,092
+2,14.9951727139996,Social,Social Proof,1,Scam,028455
+2,12.4416535084601,Health,Reciprocation,0,Scam,015626a
+2,10.6588562424295,Social,Social Proof,1,Scam,004455
+3,18.5885243884986,Health,Commitment/Consistency,1,Safe,007546cS
+1,8.46742880123202,Legal,Scarcity,1,Scam,026172
+1,5.7737992311595,General,Type,0,Safe,014S
+2,20.7918846028624,General,Type,0,Safe,017S
+1,13.7489248993807,General,Type,0,Safe,015S
+1,6.40283214009833,General,Type,0,Safe,019S
+1,20.2698328855913,Social,Commitment/Consistency,0,Safe,029045S
+1,9.02910395385697,Finance and Banking,Type,0,Safe,012S
+1,26.5829085960286,University Phishing Emails,Type,0,Scam,109
+3,13.7037792737829,Health,Authority,1,Safe,015836aS
+3,11.8155725370161,University Phishing Emails,Type,1,Scam,094
+3,6.81337636162061,Security,Social Proof,0,Scam,024853
+1,39.6797179237474,Security,Social Proof,0,Safe,002253cS
+2,8.6681221841136,Legal,Liking,0,Safe,006162bS
+2,12.3975130298641,Legal,Social Proof,1,Scam,025052
+3,10.3632685703924,Legal,Liking,0,Scam,005162a 
+2,12.4746748568723,Ideological,Social Proof,1,Safe,008754eS
+1,7.576778157847,Finance and Banking,Type,0,Safe,001S
+4,20.295275114011,University Phishing Emails,Type,1,Scam,052
+4,19.3718035561033,Ideological,Perceptual Contrast,1,Scam,027414
+1,12.3601605192525,General,Type,0,Safe,031S
+1,5.78496698127128,Job Offer,Type,0,Safe,038S
+1,8.7608044219669,Health,Commitment/Consistency,0,Scam,022046c
+4,15.0710876161465,Legal,Scarcity,0,Safe,026172S
+4,13.1442807824351,Security,Authority,0,Scam,000433a
+1,7.92896364990156,University Phishing Emails,Type,0,Scam,042
+2,9.50733171973843,Legal,Commitment/Consistency,0,Safe,024242S
+1,7.76785732002463,Social,Liking,0,Safe,001465aS
+1,10.1962061071536,Ideological,Reciprocation,1,Scam,019224c 
+4,32.7474811787251,Financial,Liking,0,Scam,009261g 
+1,25.6551118296338,General,Type,0,Safe,010S
+1,8.7358189583756,Financial,Commitment/Consistency,1,Safe,004241cS
+2,25.4378670903388,Ideological,Perceptual Contrast,1,Safe,027314S
+3,45.5093962567626,University Phishing Emails,Type,1,Scam,046
+3,13.1727096767863,Health,Liking,1,Safe,007466cS
+4,7.05056826036889,General,Type,1,Safe,002S
+4,12.4950037010713,Security,Perceptual Contrast,1,Safe,002913bS
+4,6.86155462753959,Health,Reciprocation,1,Safe,004926aS
+1,6.23460907756817,Finance and Banking,Type,0,Safe,004S
+1,18.3364064352354,General,Type,0,Safe,018S
+4,6.31565820099786,Health,Scarcity,1,Scam,007876c 
+4,23.1795555257704,Finance and Banking,Type,0,Scam,012
+2,11.6552338761976,Health,Scarcity,1,Safe,011076dS 
+4,11.4388540462824,University Phishing Emails,Type,0,Scam,107
+2,26.9198733363301,Legal,Scarcity,0,Scam,026272
+3,11.8977442235919,General,Type,0,Safe,025S
+1,7.55046539742034,General,Type,0,Safe,007S
+3,13.7555881747976,University Phishing Emails,Type,1,Scam,128
+3,8.30571025435347,Financial,Scarcity,1,Safe,005671fS 
+1,10.0121851350414,Finance and Banking,Type,0,Safe,016S
+4,9.18013367557433,Social,Authority,1,Safe,002135dS
+2,20.7966040646425,Lottery & Sweepstakes,Type,0,Safe,034S
+1,23.575153517304,Security,Commitment/Consistency,0,Safe,006943bS
+3,19.8378167502815,Security,Reciprocation,1,Safe,006823bS
+1,4.72093788592611,Finance and Banking,Type,0,Safe,006S
+4,27.3280242558103,Job Offer,Type,0,Safe,036S
+4,4.88441899581812,Legal,Liking,1,Scam,006162b
+4,17.371562109096,Social,Liking,1,Scam,001165b 
+1,12.2387424514163,General,Type,0,Safe,009S
+1,16.96463826939,Security,Liking,1,Safe,002363cS
+3,18.9603907868732,Financial,Scarcity,0,Scam,020471
+1,4.11306300968863,General,Type,0,Safe,013S
+4,2.28999304771423,University Phishing Emails,Type,0,Scam,066
+2,25.3786550277146,Financial,Perceptual Contrast,1,Safe,020111S
+4,10.8719768687151,Legal,Reciprocation,1,Scam,021022
+1,4.78022767463699,Finance and Banking,Type,0,Safe,032S
+1,4.97066948283464,General,Type,0,Safe,027S
+1,4.98081257170998,Finance and Banking,Type,0,Safe,033S
+4,5.45511268952396,Security,Perceptual Contrast,0,Scam,006713b
+1,6.02710953552742,Financial,Authority,1,Safe,003331kS
+4,5.55334324692376,Financial,Liking,1,Scam,009861a 
+2,7.98968095262535,Ideological,Social Proof,1,Scam,021554
+4,12.2323880959302,Financial,Social Proof,0,Scam,004051l 
+3,31.6773811798776,University Phishing Emails,Type,0,Scam,099
+3,18.3579332535155,University Phishing Emails,Type,0,Scam,127
+1,7.19472765771206,Social,Perceptual Contrast,0,Safe,027215S
+4,6.56398940540385,University Phishing Emails,Type,0,Scam,077
+4,3.25924890802708,University Phishing Emails,Type,0,Scam,097
+4,6.71598127693869,University Phishing Emails,Type,0,Scam,048
+2,15.4600742597831,Ideological,Commitment/Consistency,0,Scam,004344e 
+1,13.2745420942083,Ideological,Scarcity,0,Safe,010174aS 
+3,11.551396787283,General,Type,0,Safe,024S
+4,2.77302990830503,Financial,Reciprocation,0,Scam,014621b 
+4,8.70414012123365,Health,Commitment/Consistency,1,Scam,007546c
+2,9.94326888793148,Legal,Authority,0,Safe,017432dS 
+1,6.62269376788754,University Phishing Emails,Type,0,Scam,114
