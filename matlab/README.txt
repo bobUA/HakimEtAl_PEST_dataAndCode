@@ -24,4 +24,4 @@ Place to start with analysis is
 
 	main.m
 
-This will recreate all figures and analyses from the paper (except the task illustration, Figure 1)
+This will recreate all figures and analyses from the paper (except the task illustration, Figure 1).
